@@ -2,7 +2,7 @@
 Basic Calculator made by Reactjs
 
 # Running App
-<code>cd <myApp></code >
+<code>cd myApp</code><br>
 <code>npm start</code>
 
 <p align="center">
