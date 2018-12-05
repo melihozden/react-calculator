@@ -6,8 +6,7 @@ Basic Calculator made by Reactjs
   more info : https://github.com/facebook/create-react-app
 
 # Running App
-<code>cd myApp<br>
-npm start</code>
+<code>cd myApp /n npm start</code>
 
 ## UI Example
 <p align="center">
