@@ -7,8 +7,8 @@ Basic Calculator made by Reactjs
 
 # Running App
 ```sh
-create-react-app my-app
-cd my-app
+git clone ****.git
+cd react-calculator
 npm start
 ```
 
