@@ -1,10 +1,6 @@
 # react-calculator
 Basic Calculator made by Reactjs
 
-# React Installation
-  <code>create-react-app</code>
-  more info : https://github.com/facebook/create-react-app
-
 # Running App
 ```sh
 git clone ****.git
